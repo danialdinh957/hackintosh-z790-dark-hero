@@ -5,7 +5,9 @@
 
 <h1>Opencore 1.0.4</h1>
 
-<h3>MacOS Sequoia 15.3.2 (24D81)</h3>
+<h2>MacOS Sequoia 15.3.2 (24D81)</h3>
+<a href="https://github.com/danialdinh957/hackintosh-z790-dark-hero/blob/main/README-sonoma.md">MacOS Sonoma 14.5 (23F79)</a>
+
 </div>
 
 

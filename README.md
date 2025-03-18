@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png" alt="logo" width="auto" height="80">
 </a>
 
-<p>Opencore 1.0.0</p>
+<h1>Opencore 1.0.4</h1>
 
-<h3>MacOS Sonoma 14.5 (23F79)</h3>
+<h3>MacOS Sequoia 15.3.2 (24D81)</h3>
 </div>
 
 
@@ -48,9 +48,9 @@ include</p>
   <li>ROM</li>
 </ul>
 <p>I'm using  <a href="https://github.com/ic005k/OCAuxiliaryTools">OCAuxiliaryTools</a></p>
-<img src="assets/images/ocat.png" alt="ocat"/>
+<img src="assets/images/sonoma/ocat.png" alt="ocat"/>
 
-<h4>Geekbench 6</h4>
+<h4>Geekbench 6 (Sonoma, update Sequoia later)</h4>
 <ul>
   <li>
     iMac Pro 1,1 (not use CpuFriend.kext)
@@ -75,14 +75,12 @@ include</p>
   <li>
     <h5>System Info</h5>
     <div style="display: flex;">
-      <img src="assets/images/imac-system.png" height="350" style="margin: 0 -10px" alt="system-info"/>
-      <img src="assets/images/mac-system.png" height="350" style="margin: 0 -10px" alt="system-info"/>
+      <img src="assets/images/sequoia/mac-system.png" height="350" style="margin: 0 -10px" alt="system-info"/>
     </div>
   </li>
   <li>
-    <h5>All score</h5>
-    <img src="assets/images/imac-1.png" alt="all-score"/>
-    <img src="assets/images/mac-1.png" alt="all-score"/>
+    <h5>All score (Sonoma, update Sequoia later)</h5>
+    <img src="assets/images/sonoma/mac-1.png" alt="all-score"/>
     <br/>
   </li>
   <li>
